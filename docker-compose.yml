@@ -1,0 +1,7 @@
+version: '3'
+services:
+  marionnet:
+    image: ghcr.io/michelbaie/marionnet-dockerized
+    ports:
+      - "6901:6901"
+    hostname: marionnet
