@@ -1,3 +1,4 @@
+# CECI EST UN PROOF OF CONCEPT, CERTAINES FEATURES (notamment TUN/TAP) PEUVENT NE PAS FONCTIONNER -> VEUILLEZ UTILISER LA VERSION VIRTUALISÉE DE MARIONNET DISPONIBLE SUR MON REPO GITHUB
 # marionnet-dockerized 🐳
 
 Exécutez **[Marionnet](https://marionnet.org/)** dans un conteneur Docker et accédez-y via votre navigateur grâce à **NoVNC** ! 🚀
